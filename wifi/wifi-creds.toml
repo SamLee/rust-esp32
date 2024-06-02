@@ -1,0 +1,3 @@
+[rust-esp-32-wifi]
+wifi_ssid = "Oh Pippin..."
+wifi_password = "sausages"
